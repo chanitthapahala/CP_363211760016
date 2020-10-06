@@ -71,6 +71,8 @@ public class Supercar {
                 ", max_speed=" + max_speed +
                 ", country_of_origin='" + country_of_origin + '\'' +
                 '}';
+
+
     }
 
 
